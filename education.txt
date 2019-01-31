@@ -1,0 +1,10 @@
+elementary school,g.1 - g.6
+middle school,g.7 - g.9
+high school,g.10 - g.11
+Mathematic,calculation
+Science,white lab coat
+Language Art,reading writing speaking
+Value,moral lesson
+Physical Education,sport
+Social Study,history cultural geography
+Speech,presentation skill

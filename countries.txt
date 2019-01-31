@@ -1,0 +1,10 @@
+Thailand,Land of Smiles
+Japan,Mount Fuji
+Korea,boy band
+China,Great Wall
+Australia,kangaroo
+Russia,St. Peterberg
+United States of America,NASA
+Canada,maple leaf
+Egypt,pyramid
+Nepal,Mount Everest
